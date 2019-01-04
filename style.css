@@ -1,0 +1,67 @@
+/*
+#E42F5C - pink
+#D3BF9E - beige
+*/
+html,body{
+    background-image:url("images/gift.jpg");
+/*font-family: 'Pacifico', cursive;*/
+
+font-family: 'Happy Monkey', cursive;
+    background-size:cover;
+    background-position:center;
+    height:100%;
+}
+h1,p{
+    background-color: #D3BF9E;    
+    border-radius: 25px;
+
+}
+.lead{
+    padding:5px;
+    border-radius: 15px;
+    background-color:#E42F5C;
+    
+color:white;
+}
+.container{
+    background-color:rgba(211, 191, 156, 0.5);
+    padding: 50px;
+    
+    border: 3px dashed #E42F5C;
+    margin: 10px auto;
+}   
+.form-group{
+margin: 10px;
+}
+#fail{
+    background-color: white;
+    color: #E42F5C;
+}
+h2{
+    font-size: 3em;
+}
+#findGift{
+    margin-top:10px;
+}
+.center{
+    margin: 0 auto;
+    text-align: center;
+}
+.alert,.jumbotron{
+    background-color:#E42F5C;
+    display: none;
+    color: white;
+    border: 3px dashed #D3BF9E
+
+}
+.pink{
+    background-color:#E42F5C;
+    border: 1px solid #D3BF9E;
+}
+#findGift:hover{
+    background-color: white;
+    color: #E42F5C;
+}
+.pinkText{
+    color:#E42F5C;
+}
