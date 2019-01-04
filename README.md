@@ -1,3 +1,3 @@
 # anniversary
 
-Anniversary app that stores couples wedding and give gift ideas
+Anniversary app that shows gift ideas for wedding anniversaries
