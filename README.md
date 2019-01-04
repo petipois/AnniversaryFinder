@@ -5,3 +5,4 @@
   <li>Displays the years married</li>
   <li>Displays a gift idea</li>
 </ul>
+<p>Uses HTML, CSS,Bootstrap, JS, JQuery, PHP</p>
